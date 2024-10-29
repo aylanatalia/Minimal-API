@@ -135,3 +135,4 @@ C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\desafio-api\minimal
 C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\desafio-api\minimal-api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\desafio-api\minimal-api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\desafio-api\minimal-api\obj\Debug\net9.0\minimal-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\desafio-api\minimal-api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
